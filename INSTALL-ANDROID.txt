@@ -1,0 +1,16 @@
+NW DIGITALS COMMAND CENTER — ANDROID INSTALL
+
+1. Create a NEW Netlify project for this dashboard. Do not upload it over the public website.
+2. Deploy this entire extracted folder using Netlify manual deployment.
+3. In the dashboard project's access/security settings, enable Netlify Team Login protection.
+4. On your Android phone, open the dashboard's netlify.app URL in Chrome.
+5. Sign into your Netlify account when asked.
+6. In the dashboard, create your private PIN when prompted.
+7. In Chrome, tap the three-dot menu, then Install app or Add to Home screen.
+8. Confirm Install. Open NW Command from your Android home screen.
+
+Important:
+- Dashboard leads stay in the phone/browser storage unless you use its existing sync feature.
+- Export a backup from the dashboard regularly.
+- Clearing Chrome app/site data can erase locally stored leads.
+- Never make this dashboard project public if it contains customer information.
